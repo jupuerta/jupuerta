@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan
 
-**Software Engineer · Backend .NET** based in Madrid, Spain.
+**Software Engineer · Backend .NET** based in Spain.
 I build APIs and microservices with C# and .NET, and I care about clean code and software architecture: SOLID, clear boundaries and design decisions I can justify.
 
 - 🔭 Currently building a **cybersecurity platform based on .NET 8 microservices** from scratch, in a team of ~9 engineers.
